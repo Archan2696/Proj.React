@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "FirstName": "Mitul",
+      "LastName": "patel",
+      "Email": "mitulpatel@1rivet.com",
+      "ContactNumber": "7674545",
+      "id": 2
+    },
+    {
+      "FirstName": "Sonik",
+      "LastName": "Patel",
+      "Email": "sonikpatel@1rivet.com",
+      "ContactNumber": "98989898989",
+      "id": 3
+    },
+    {
+      "FirstName": "bonny",
+      "LastName": "tandel",
+      "Email": "bonny@gmail.com",
+      "ContactNumber": "9737821139",
+      "id": 4
+    },
+    {
+      "FirstName": "viren",
+      "LastName": "tandel",
+      "Email": "viren@1rivet.com",
+      "ContactNumber": "969596959695",
+      "id": 8
+    },
+    {
+      "FirstName": "rahul",
+      "LastName": "tandel",
+      "Email": "rahul@1rivet.com",
+      "ContactNumber": "8787878787",
+      "id": 9
+    },
+    {
+      "FirstName": "viren",
+      "LastName": "tandel",
+      "Email": "viren@1rivet.com",
+      "ContactNumber": "89898989898",
+      "id": 11
+    },
+    {
+      "FirstName": "Roshan",
+      "LastName": "Patel",
+      "Email": "Roshan@1rivet.com",
+      "ContactNumber": "2222222222",
+      "id": 12
+    },
+    {
+      "FirstName": "bonny",
+      "LastName": "patel",
+      "Email": "bonny@1rivet.com",
+      "ContactNumber": "9898989898",
+      "id": 14
+    },
+    {
+      "FirstName": "bunny",
+      "LastName": "patel",
+      "Email": "dfsdf",
+      "ContactNumber": "sdfsdf",
+      "id": 16
+    },
+    {
+      "FirstName": "Ashok",
+      "LastName": "yadav",
+      "Email": "ashok@1rivet.com",
+      "ContactNumber": "989898989",
+      "id": 17
+    },
+    {
+      "FirstName": "purvesh",
+      "LastName": "desai",
+      "Email": "purvesh.desai@1rivet.com",
+      "ContactNumber": "8555528852",
+      "id": 20
+    },
+    {
+      "FirstName": "rohan",
+      "LastName": "patel",
+      "Email": "efrfdsaf",
+      "ContactNumber": "545487845454",
+      "id": 21
+    }
+  ]
+}
